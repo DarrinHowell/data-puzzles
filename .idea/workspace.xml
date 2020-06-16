@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6f04c9f6-9247-45d9-9a83-8e544c731161" name="Default Changelist" comment="" />
+    <list default="true" id="6f04c9f6-9247-45d9-9a83-8e544c731161" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/SpotShuffle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SpotShuffle.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -30,37 +32,85 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="13" />
+          <entry key="java" value="17" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="13" />
+          <entry key="JAVA" value="17" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="6830" />
+          <entry key="java" value="8647" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="6830" />
+          <entry key="JAVA" value="8647" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/SpotShuffle.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="39" column="33" selection-start-line="39" selection-start-column="33" selection-end-line="39" selection-end-column="33" />
+            <state relative-caret-position="-206">
+              <caret line="19" column="9" lean-forward="true" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#142#143#0" expanded="true" />
                 <element signature="e#181#182#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/LongestPalindromeTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="138">
+              <caret line="6" column="44" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="6" selection-end-column="44" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/SubArray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="63">
+              <caret line="60" selection-start-line="60" selection-end-line="60" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/LongestNumber.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="299">
+              <caret line="22" column="56" selection-start-line="22" selection-start-column="56" selection-end-line="22" selection-end-column="56" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/CheckSubArrayTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="74">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -80,6 +130,9 @@
       <find>float</find>
       <find>pnnp</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="myGradleHomes">
@@ -400,9 +453,12 @@
         <option value="$PROJECT_DIR$/src/main/java/ListNodeLeetCode/AddTwoNumbers.java" />
         <option value="$PROJECT_DIR$/src/test/java/LongestSubStringTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/LongestSubString.java" />
-        <option value="$PROJECT_DIR$/src/test/java/LongestPalindromeTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/LongestPalindrome.java" />
         <option value="$PROJECT_DIR$/src/main/java/SpotShuffle.java" />
+        <option value="$PROJECT_DIR$/src/test/java/LongestPalindromeTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/CheckSubArrayTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/SubArray.java" />
+        <option value="$PROJECT_DIR$/src/main/java/LongestNumber.java" />
       </list>
     </option>
   </component>
@@ -411,6 +467,9 @@
     <option name="y" value="23" />
     <option name="width" value="1260" />
     <option name="height" value="703" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -442,12 +501,6 @@
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="data_puzzles" type="b2602c69:ProjectViewProjectNode" />
-              <item name="data_puzzles" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -458,7 +511,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/darrinhowell/codefellows/data_puzzles/src/main/java/LongestPalindrome.java" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1590276735855" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1592350032587" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -476,22 +529,32 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.LongestPalindromeTest.longestPalindromeTest_DEx1">
-    <configuration name="LongestPalindromeTest.longestPalindromeTest_D3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.CheckSubArrayTest.checkSubArrayTest_3">
+    <configuration name="CheckSubArrayTest.checkSubArrayTest_1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="data_puzzles_test" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="LongestPalindromeTest" />
-      <option name="METHOD_NAME" value="longestPalindromeTest_D3" />
+      <option name="MAIN_CLASS_NAME" value="CheckSubArrayTest" />
+      <option name="METHOD_NAME" value="checkSubArrayTest_1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LongestPalindromeTest.longestPalindromeTest_D4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="CheckSubArrayTest.checkSubArrayTest_2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="data_puzzles_test" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="LongestPalindromeTest" />
-      <option name="METHOD_NAME" value="longestPalindromeTest_D4" />
+      <option name="MAIN_CLASS_NAME" value="CheckSubArrayTest" />
+      <option name="METHOD_NAME" value="checkSubArrayTest_2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CheckSubArrayTest.checkSubArrayTest_3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="data_puzzles_test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CheckSubArrayTest" />
+      <option name="METHOD_NAME" value="checkSubArrayTest_3" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -502,16 +565,6 @@
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="LongestPalindromeTest" />
       <option name="METHOD_NAME" value="longestPalindromeTest_DEx1" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LongestPalindromeTest.longestPalindromeTest_DEx2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="data_puzzles_test" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="LongestPalindromeTest" />
-      <option name="METHOD_NAME" value="longestPalindromeTest_DEx2" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -529,18 +582,18 @@
     </configuration>
     <list>
       <item itemvalue="JUnit.LongestPalindromeTest.longestPalindromeTest_DEx1" />
-      <item itemvalue="JUnit.LongestPalindromeTest.longestPalindromeTest_DEx2" />
-      <item itemvalue="JUnit.LongestPalindromeTest.longestPalindromeTest_D3" />
-      <item itemvalue="JUnit.LongestPalindromeTest.longestPalindromeTest_D4" />
       <item itemvalue="JUnit.LongestPalindromeTest.longestPalindromeTest_Ex1" />
+      <item itemvalue="JUnit.CheckSubArrayTest.checkSubArrayTest_1" />
+      <item itemvalue="JUnit.CheckSubArrayTest.checkSubArrayTest_2" />
+      <item itemvalue="JUnit.CheckSubArrayTest.checkSubArrayTest_3" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.CheckSubArrayTest.checkSubArrayTest_3" />
+        <item itemvalue="JUnit.CheckSubArrayTest.checkSubArrayTest_2" />
+        <item itemvalue="JUnit.CheckSubArrayTest.checkSubArrayTest_1" />
         <item itemvalue="JUnit.LongestPalindromeTest.longestPalindromeTest_DEx1" />
         <item itemvalue="JUnit.LongestPalindromeTest.longestPalindromeTest_Ex1" />
-        <item itemvalue="JUnit.LongestPalindromeTest.longestPalindromeTest_D4" />
-        <item itemvalue="JUnit.LongestPalindromeTest.longestPalindromeTest_D3" />
-        <item itemvalue="JUnit.LongestPalindromeTest.longestPalindromeTest_DEx2" />
       </list>
     </recent_temporary>
   </component>
@@ -558,27 +611,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="LongestPalindromeTest_longestPalindromeTest_D3 - 2020.05.13 at 15h 21m 41s.xml">
-      <configuration name="LongestPalindromeTest.longestPalindromeTest_D3" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="LongestPalindromeTest_longestPalindromeTest_D4 - 2020.05.13 at 15h 22m 46s.xml">
-      <configuration name="LongestPalindromeTest.longestPalindromeTest_D4" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="LongestPalindromeTest_longestPalindromeTest_D4 - 2020.05.13 at 15h 38m 18s.xml">
-      <configuration name="LongestPalindromeTest.longestPalindromeTest_D4" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="LongestPalindromeTest_longestPalindromeTest_D4 - 2020.05.13 at 15h 53m 43s.xml">
-      <configuration name="LongestPalindromeTest.longestPalindromeTest_D4" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="LongestPalindromeTest_longestPalindromeTest_D4 - 2020.05.13 at 15h 53m 58s.xml">
-      <configuration name="LongestPalindromeTest.longestPalindromeTest_D4" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="LongestPalindromeTest_longestPalindromeTest_D4 - 2020.05.13 at 15h 54m 27s.xml">
-      <configuration name="LongestPalindromeTest.longestPalindromeTest_D4" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="LongestPalindromeTest_longestPalindromeTest_Ex1 - 2020.05.13 at 15h 55m 51s.xml">
-      <configuration name="LongestPalindromeTest.longestPalindromeTest_Ex1" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="LongestPalindromeTest_longestPalindromeTest_DEx1 - 2020.05.13 at 15h 56m 07s.xml">
       <configuration name="LongestPalindromeTest.longestPalindromeTest_DEx1" configurationId="JUnit" />
     </history-entry>
@@ -587,6 +619,27 @@
     </history-entry>
     <history-entry file="LongestPalindromeTest_longestPalindromeTest_DEx1 - 2020.05.13 at 17h 47m 14s.xml">
       <configuration name="LongestPalindromeTest.longestPalindromeTest_DEx1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CheckSubArrayTest_checkSubArrayTest_1 - 2020.05.30 at 11h 37m 36s.xml">
+      <configuration name="CheckSubArrayTest.checkSubArrayTest_1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CheckSubArrayTest_checkSubArrayTest_2 - 2020.05.30 at 11h 38m 18s.xml">
+      <configuration name="CheckSubArrayTest.checkSubArrayTest_2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CheckSubArrayTest_checkSubArrayTest_2 - 2020.05.30 at 12h 09m 20s.xml">
+      <configuration name="CheckSubArrayTest.checkSubArrayTest_2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CheckSubArrayTest_checkSubArrayTest_3 - 2020.05.30 at 12h 10m 12s.xml">
+      <configuration name="CheckSubArrayTest.checkSubArrayTest_3" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CheckSubArrayTest_checkSubArrayTest_3 - 2020.05.30 at 12h 15m 46s.xml">
+      <configuration name="CheckSubArrayTest.checkSubArrayTest_3" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CheckSubArrayTest_checkSubArrayTest_3 - 2020.05.30 at 12h 24m 08s.xml">
+      <configuration name="CheckSubArrayTest.checkSubArrayTest_3" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CheckSubArrayTest_checkSubArrayTest_3 - 2020.05.30 at 12h 42m 21s.xml">
+      <configuration name="CheckSubArrayTest.checkSubArrayTest_3" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -607,7 +660,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.33109245" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39831933" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.39831933" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -631,6 +684,18 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/CheckSubArrayTest.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/test/java/UserSolutionTests.java">
@@ -686,13 +751,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="49" selection-start-line="49" selection-end-line="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/LongestPalindromeTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-519">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <element signature="e#1657#1658#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -712,12 +773,52 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/SpotShuffle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="39" column="33" selection-start-line="39" selection-start-column="33" selection-end-line="39" selection-end-column="33" />
+        <state relative-caret-position="-206">
+          <caret line="19" column="9" lean-forward="true" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#142#143#0" expanded="true" />
             <element signature="e#181#182#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/LongestPalindromeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="44" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="6" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/CheckSubArrayTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="74">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/SubArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="60" selection-start-line="60" selection-end-line="60" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/LongestNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="22" column="56" selection-start-line="22" selection-start-column="56" selection-end-line="22" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
